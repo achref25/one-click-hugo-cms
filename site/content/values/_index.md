@@ -12,11 +12,9 @@ values:
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Vous feriez partie de la communauté France Idéal Formations , en optant idéalement pour une leçon gratuite en Visio pour mieux découvrir le programme d’anglais qui correspond à vos objectifs. Votre formateur sera prêt à répondre à toutes vos questions durant cette première réunion pour mieux découvrir le programme d’anglais qui correspond à vos objectifs.
+
+Votre formateur sera prêt à répondre à toutes vos questions durant cette première réunion
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "Sustainable farming"
     text: >
